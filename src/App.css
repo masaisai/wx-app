@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  touch-action: none;
+  min-height:100vh
+}
+
+
+
+.App-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.App-logo {
+  width:20%;
+  height:44px;
+}
+.App-search {
+  width:80%
+}
